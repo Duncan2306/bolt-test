@@ -7,13 +7,6 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        "black-modecore-button": "var(--black-modecore-button)",
-        "black-modecore-button-30": "var(--black-modecore-button-30)",
-        "black-modeline": "var(--black-modeline)",
-        "black-modetext-title": "var(--black-modetext-title)",
-        red: "var(--red)",
-        "white-modeline": "var(--white-modeline)",
-        yellow: "var(--yellow)",
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
         ring: "hsl(var(--ring))",

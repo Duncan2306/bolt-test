@@ -1,1 +1,0 @@
-export { CharityEventSection } from "./CharityEventSection";

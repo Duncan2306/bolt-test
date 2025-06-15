@@ -5,7 +5,7 @@ import { defineConfig } from "vite";
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/bolt-test",
+  base: "./",
   css: {
     postcss: {
       plugins: [tailwind()],

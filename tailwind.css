@@ -7,16 +7,6 @@
   }
 }
 
-:root {
-  --black-modecore-button: rgba(33, 93, 214, 1);
-  --black-modecore-button-30: rgba(33, 93, 214, 0.3);
-  --black-modeline: rgba(54, 64, 102, 1);
-  --black-modetext-title: rgba(255, 255, 255, 1);
-  --red: rgba(249, 57, 57, 1);
-  --white-modeline: rgba(226, 227, 233, 1);
-  --yellow: rgba(255, 218, 44, 1);
-}
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
